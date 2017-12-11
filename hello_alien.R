@@ -1,0 +1,1 @@
+cat("hello\n hi\n how are you")
